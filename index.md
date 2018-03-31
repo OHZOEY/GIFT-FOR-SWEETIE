@@ -1,6 +1,5 @@
 ## 小仙女终于18岁啦
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
