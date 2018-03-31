@@ -19,36 +19,18 @@
 
 <img src="75f07b2309f790524b8fbd9606f3d7ca7acbd55f.jpg  "/>
 </body>
+<p>这玩意还真挺费劲</p>
+<p>比做公众号难多了</p>
+<p>起码公众号不用自己敲代码呀</p>
+<p>算了算了</p>
+<p>本芭比累了</p>
+<p>不想敲了</p>
+<p>hahaha</p>
+<p>最后</p>
+<p>在这举国同庆的日子里</p>
+<p>祝您生活愉快 阖家幸福 新年的钟声还有两百多天就要敲响了</p>
+<p>好了 不闹了</p>
+<p>真的结尾了</p>
+<p>生日快乐 啾咪</p>
 </html>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OHZOEY/GIFT-FOR-SWEETIE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
